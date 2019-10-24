@@ -1,8 +1,17 @@
 #d h1{
   background-color: #ea5169;
   text-align: center;
+  margin-top: 0;
 }
 
 img{
   border: solid black 4px;
+}
+
+footer{
+  position: absolute;
+  width: 100%;
+  background-color: #ea5169;
+  bottom:0;
+  text-align: center;
 }
